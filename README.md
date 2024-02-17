@@ -2,3 +2,5 @@
 
 - Software Quality (SOFE3980U)
 - Martin Ceron - 100780488
+
+- Video Link: https://youtu.be/1hh21o3NYvE
